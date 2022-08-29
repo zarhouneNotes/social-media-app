@@ -7,21 +7,12 @@ import {getFirestore } from  'firebase/firestore'
 import {getStorage} from 'firebase/storage'
 
 const firebaseConfig = {
-    // apiKey: "AIzaSyCZETOyrf0Zd952Mn7KcMjg6U-674Z0cpk",
-    // authDomain: "chat-app-1ba65.firebaseapp.com",
-    // projectId: "chat-app-1ba65",
-    // storageBucket: "chat-app-1ba65.appspot.com",
-    // messagingSenderId: "912688328487",
-    // appId: "1:912688328487:web:e3e26495f6bcb68b6e4302",
-    // measurementId: "G-XTX7EWNBQZ"
-
-    apiKey: "AIzaSyAA8jlXqel8ndMt735khNNXTIYNobV2J3A",
-  authDomain: "social-app-1491d.firebaseapp.com",
-  databaseURL: "https://social-app-1491d-default-rtdb.firebaseio.com",
-  projectId: "social-app-1491d",
-  storageBucket: "social-app-1491d.appspot.com",
-  messagingSenderId: "888676848362",
-  appId: "1:888676848362:web:ff38d01e6efcb7eecd7d93"
+//     *********************************************
+//     *********************************************
+//     *********************************************
+//     *********************************************
+//     *********************************************
+//     *********************************************
 };
 
 
